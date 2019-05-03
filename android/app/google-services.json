@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985207075178",
+    "firebase_url": "https://semanalince2.firebaseio.com",
+    "project_id": "semanalince2",
+    "storage_bucket": "semanalince2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985207075178:android:d8c8a8b65c7f9bb7",
+        "android_client_info": {
+          "package_name": "com.jonathanlnb.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985207075178-fqiingtouiqldhbha7n7of0fthhqef41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jonathanlnb.prueba",
+            "certificate_hash": "382b21a4212ed8742c2ad4e0c8031c0ec0814375"
+          }
+        },
+        {
+          "client_id": "985207075178-2p5asbnd9i8c5an91ulor3098bidoav5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRFzpLGhsmz84iAGhMiFwt2irsdJnKOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985207075178-2p5asbnd9i8c5an91ulor3098bidoav5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
